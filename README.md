@@ -4,7 +4,7 @@
 - **Họ và tên:** Hoàng Gia Hưng
 - **Mã số sinh viên:** 24810320102
 - **Lớp học phần:** D19QTANM1
-- **Link Repository:** https://github.com/hunghg2112/LTNET_24810320102_HoangGiaHung
+- **Link Repository:** https://github.com/hunghg2112/LTNET_24810320102_HoangGiaHung_2
 
 ---
 
